@@ -26,6 +26,6 @@ URL.
 5) scalability.
 
 
-## Dependencies (using swift Packages:
+## Dependencies (using swift Packages):
 - Alamofire
 - SDWebImage 
