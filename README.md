@@ -1,5 +1,8 @@
 # MAF-Task
 
+<p align="center">
+  <img src="https://drive.google.com/file/d/1seQyEVopECQ6SqRPWVqcRMNPU7pupLTN/view?usp=sharing" alt="Icon"/>
+</p>
 <H1 align="center">News Task</H1>
 
 NewsFinder is a news search solution that looks into many providers and display
