@@ -23,3 +23,9 @@ URL.
 4) User can Filters:
 - By Country (US,AE,JO)
 - By Categories (sports, business, health)
+5) scalability.
+
+
+## Dependencies (using swift Packages:
+- Alamofire
+- SDWebImage 
