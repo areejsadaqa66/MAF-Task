@@ -12,14 +12,14 @@ Providers API:
 
 
 ## Features:
-1) Each Item in the list should contain the below:
+1) Each Item in the list contains the below:
 - News Image.
 - News title.
 - Author.
 - Post Date (Format: dd/MM/yyyy).
-2) Once the user clicks on the news, you should redirect him to the news details
+2) Once the user clicks on the news, it will redirect him to the news details
 URL.
 3) Flexible layout cross all mobile screen sizes.
-4) Filters:
+4) User can Filters:
 - By Country (US,AE,JO)
 - By Categories (sports, business, health)
