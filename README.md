@@ -1,7 +1,7 @@
 # MAF-Task
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1seQyEVopECQ6SqRPWVqcRMNPU7pupLTN/view?usp=sharing" alt="Icon"/>
+  <img src="https://drive.google.com/file/d/1seQyEVopECQ6SqRPWVqcRMNPU7pupLTN/view?usp=sharing.png" alt="Icon"/>
 </p>
 <H1 align="center">News Task</H1>
 
